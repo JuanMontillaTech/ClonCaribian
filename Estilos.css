@@ -1,0 +1,33 @@
+body {
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+table {
+    color: white;
+    font-size: 35px;
+}
+img {
+    width: 150px;
+    height: 150px;
+}
+.img2 {
+    width: 350px;
+    height: 350px;
+}
+.Detalles {
+    font-size: 24px;
+}
+.mistitulos {
+    font-size: medium;
+    color: #f27f6db8;
+}
+
+.Background {
+    background: #0d225d;
+}
+.btnSuccess{
+    background: #e70e0e;
+    color: white;
+    font-size: 35px;
+    border-radius: 10%;
+}
